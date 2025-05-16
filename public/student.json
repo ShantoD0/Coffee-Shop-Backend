@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Amina Rahman",
+    "age": 17,
+    "grade": "11",
+    "email": "amina.rahman@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Rafiul Islam",
+    "age": 16,
+    "grade": "10",
+    "email": "rafiul.islam@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Nadia Chowdhury",
+    "age": 18,
+    "grade": "12",
+    "email": "nadia.chowdhury@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Tahmid Hasan",
+    "age": 15,
+    "grade": "9",
+    "email": "tahmid.hasan@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Sadia Ahmed",
+    "age": 17,
+    "grade": "11",
+    "email": "sadia.ahmed@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Mahmudul Karim",
+    "age": 16,
+    "grade": "10",
+    "email": "mahmudul.karim@example.com"
+  }
+]
